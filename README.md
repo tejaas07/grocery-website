@@ -1,7 +1,3 @@
-Here's the corrected version with spelling and grammatical errors addressed:
-
----
-
 Tech stack and libraries used in the project:
 
 1. **Frontend**
